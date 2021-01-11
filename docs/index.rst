@@ -13,10 +13,3 @@ Welcome to BantuButa's documentation!
   useapp
   license
   contributing
-
-  
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`search`
